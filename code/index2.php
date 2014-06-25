@@ -1,6 +1,7 @@
 <?php 
 /**
  WAAAH
- changes in first file
+ just second file
+ 
 */
 echo 'Hello, World';
