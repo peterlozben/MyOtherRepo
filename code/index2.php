@@ -5,5 +5,6 @@
  
 */
 echo 'Hello, World';
-echo 'WAAAAAHH';
+
+echo __FILE__
 
