@@ -2,9 +2,8 @@
 /**
  WAAAH
  just second file
- 
+ another comment
 */
 echo 'Hello, World';
-
-echo __FILE__;
+echo 'WAAAAAHH';
 
