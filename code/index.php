@@ -5,5 +5,3 @@
 */
 echo 'Hello, Fucking World';
 // --- code branch 
-// adding some code
-// cloned repo
